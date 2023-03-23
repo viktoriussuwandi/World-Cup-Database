@@ -29,7 +29,7 @@ If you leave your virtual machine, your database may not be saved. You can make 
 
 If you are saving your progress on [freeCodeCamp.org](freeCodeCamp.org), after getting all the tests to pass, follow the instructions above to save a dump of your database. Save the `worldcup.sql` file, as well as the final version of your `insert_data.sh` and `queries.sh` files, in a public repository and submit the URL to it on [freeCodeCamp.org](freeCodeCamp.org).
 
-## Tasks & Testing
+## CodeRoad
 1. You should create a database named `worldcup`.
 2. You should **connect to your worldcup database** and then create `teams` and `games` tables.
 3. Your `teams` table should have a `team_id` column that is a type of `SERIAL` and is the primary key, and a `name` column that has to be `UNIQUE`.
@@ -41,6 +41,5 @@ If you are saving your progress on [freeCodeCamp.org](freeCodeCamp.org), after g
 9. When you run your `insert_data.sh` script, it should add each `unique team` to the `teams` table. There should be `24` rows.
 10. When you run your `insert_data.sh` script, it should insert a `row` for each line in the `games.csv` file (other than the top line of the file). There should be `32` rows. Each row should have every column filled in with the appropriate info. Make sure to add the correct ID's from the `teams` table (you cannot hard-code the values).
 11. You should correctly complete the queries in the `queries.sh` file. Fill in each empty echo command to get the output of what is suggested with the command above it. Only use a single line like the first query. The output should match what is in the `expected_output.txt` file **exactly**, take note of the number of decimal places in some of the query results.
-
 
 ## Result
