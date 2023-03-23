@@ -1,10 +1,11 @@
 # World Cup Database
 #### Open [`file solution.txt`](solution.txt) To follow my terminal command. Solutions divided into several steps :
-    1. Create database and connect to it.
-    2. Create required tables.
-    3. Fill the required tables with data.
-    4. Primary Key and Foreign Key assignment.
-    5. Compact queries into worldcup.sql file.
+    1. Create Database and connect to it.
+    2. Create tables as required conditions.
+    3. Primary Key and Foreign Key assignment.
+    4. Give executable permission to shell scipt files.
+    5. Run shell script files (NOTE : insert data first).
+    6. Compact queries into worldcup.sql file.
 
 #### Solution can be found on : https://replit.com/@ViktoriusSuwand/World-Cup-Database
 
@@ -48,3 +49,8 @@ If you are saving your progress on [freeCodeCamp.org](freeCodeCamp.org), after g
 11. You should correctly complete the queries in the `queries.sh` file. Fill in each empty echo command to get the output of what is suggested with the command above it. Only use a single line like the first query. The output should match what is in the `expected_output.txt` file **exactly**, take note of the number of decimal places in some of the query results.
 
 ## Result
+### Testing
+![Testing](testing.jpg)
+
+### Submission
+![Submission](submission.jpg)
