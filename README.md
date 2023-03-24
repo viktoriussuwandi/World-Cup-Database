@@ -12,7 +12,7 @@
 #### Documentation can be found on : [https://github.com/viktoriussuwandi/World-Cup-Database](https://github.com/viktoriussuwandi/World-Cup-Database)
 
 This is the result to complete the World Cup Database project. 
-Instructions for building this project can be found at https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database
+Instructions for building this project can be found at [https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database](https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database)
 
 ## Instructions
 Follow the instructions and get all the user stories below to pass to finish the project.
