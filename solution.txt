@@ -47,7 +47,7 @@ chmod +x queries.sh
 ./queries.sh
 
 ------------------------------------------------------------
-6. Compact queries into worldcup.sql file.
+6. Compact sql db queries into worldcup.sql file.
 ------------------------------------------------------------
 pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
 
