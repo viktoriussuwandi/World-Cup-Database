@@ -7,9 +7,9 @@
     5. Run shell script files (NOTE : insert data first).
     6. Compact queries into worldcup.sql file.
 
-#### Solution can be found on : https://replit.com/@ViktoriusSuwand/World-Cup-Database
+#### Solution can be found on : [https://replit.com/@ViktoriusSuwand/World-Cup-Database](https://replit.com/@ViktoriusSuwand/World-Cup-Database)
 
-#### Documentation can be found on : https://github.com/viktoriussuwandi/World-Cup-Database
+#### Documentation can be found on : [https://github.com/viktoriussuwandi/World-Cup-Database](https://github.com/viktoriussuwandi/World-Cup-Database)
 
 This is the result to complete the World Cup Database project. 
 Instructions for building this project can be found at https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database
