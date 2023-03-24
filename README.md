@@ -4,7 +4,7 @@
     2. Create tables as required conditions.
     3. Primary Key and Foreign Key assignment.
     4. Give executable permission to shell scipt files.
-    5. Run shell script files (NOTE : insert data first).
+    5. Copy & Run shell script files (NOTE : insert data first).
     6. Compact queries into worldcup.sql file.
 
 #### Solution can be found on : [https://replit.com/@ViktoriusSuwand/World-Cup-Database](https://replit.com/@ViktoriusSuwand/World-Cup-Database)

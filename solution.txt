@@ -41,7 +41,7 @@ chmod +x insert_data.sh
 chmod +x queries.sh
 
 ------------------------------------------------------------
-5.Run shell script files (NOTE : insert data first)
+5.Copy & Run shell script files (NOTE : insert data first)
 ------------------------------------------------------------
 ./insert_data.sh
 ./queries.sh
